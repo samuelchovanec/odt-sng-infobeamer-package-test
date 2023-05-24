@@ -1,6 +1,8 @@
 #!/usr/bin/python
 import time
 import RPi.GPIO as GPIO
+from hosted import device, node, config
+config.restart_on_update()
 
 relay_ch = 26
 
