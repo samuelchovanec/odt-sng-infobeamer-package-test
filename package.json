@@ -1,5 +1,7 @@
 {
     "name": "GPIO Test",
     "author": "Samuel Chovanec",
-    "desc": "A GPIO Test"
+    "desc": "GPIO Test",
+    "repository": "https://github.com/samuelchovanec/odt-sng-infobeamer-package-test.git",
+    "platforms": ["pi/epoch-1", "pi/epoch-2"]
 }
