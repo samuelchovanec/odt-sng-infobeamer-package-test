@@ -1,4 +1,4 @@
-#!/usr/bin/python2.7
+#!/usr/bin/python
 import time
 import RPi.GPIO as GPIO
 
