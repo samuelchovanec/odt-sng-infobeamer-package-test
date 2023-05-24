@@ -1,5 +1,5 @@
 {
-    "name": "Hello world",
+    "name": "GPIO Test",
     "author": "Samuel Chovanec",
-    "desc": "A hello world"
+    "desc": "A GPIO Test"
 }
